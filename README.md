@@ -2,7 +2,7 @@
 
 ## نظام ذكي لأوقات الصلاة والمنبه التلقائي باستخدام ESP32
 
-![صورة المشروع](images/fajer-alsamnah.jpg)
+![صورة المشروع](images/fajer-alsamnah.jpeg)
 
 ---
 

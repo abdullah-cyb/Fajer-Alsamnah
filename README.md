@@ -240,7 +240,7 @@ Longitude: 45.018654
 
 يمكن وضع صورة حقيقية للمشروع هنا:
 
-![Fajer Alsamnah Hardware](images/fajer-alsamnah-hardware.jpg)
+![Fajer Alsamnah Hardware](images/fajer-alsamnah-hardware.jpeg)
 
 يفضل أن تظهر الصورة:
 
@@ -905,31 +905,7 @@ Fajer-Alsamnah/
 
 ---
 
-# 📸 صور المشروع Screenshots
-
-يمكن إضافة صور المشروع هنا.
-
-## صورة الجهاز Hardware
-
-![Hardware](images/fajer-alsamnah-hardware.jpg)
-
-## Web Interface
-
-![Web Interface](images/web-interface.png)
-
-## Prayer Times
-
-![Prayer Times](images/prayer-times.png)
-
-## Alarm Settings
-
-![Alarm Settings](images/alarm-settings.png)
-
-## Serial Monitor
-
-![Serial Monitor](images/serial-monitor.png)
-
----
+# 
 
 # 🚀 التطوير المستقبلي Future Development
 
